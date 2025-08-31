@@ -26,6 +26,24 @@ This project is a **web-based application** that predicts the price of used cars
 
 ---
 
+
+
+## 📦 Pretrained Model
+The trained model (`model.pkl`) is too large for GitHub.  
+
+👉 Download it here: [Google Drive Link](https://drive.google.com/file/d/1uBz9LQl-eqx_WoTuQdxOOJ-1QPlZb3Y7/view?usp=sharing)
+
+After downloading, place the file inside the project folder:
+CarPriceApp/
+│-- app.py
+│-- model.pkl 👈 place here
+│-- requirements.txt
+│-- other files...
+
+
+---
+
+
 ## **Tech Stack**
 
 * **Python** (pandas, numpy, scikit-learn, joblib)
@@ -33,6 +51,7 @@ This project is a **web-based application** that predicts the price of used cars
 * **Machine Learning** for price prediction (pre-trained regression model)
 
 ---
+
 
 ## **Getting Started**
 
