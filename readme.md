@@ -138,6 +138,19 @@ joblib>=1.3.2
 
 ---
 
+## App Demo
+
+Here’s a quick look at the Streamlit app:
+
+**First part:**
+![Car price prediction App](reports/car1.png)
+
+**Second part:**
+![Car price prediction App](reports/car2.png)
+
+
+---
+
 ## **Folder Structure**
 
 ```
